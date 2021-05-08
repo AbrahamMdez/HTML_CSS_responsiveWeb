@@ -1,5 +1,11 @@
+/* RESETS */
 @import './reset.css';
+
+/* ROOTS */
 @import './roots.css';
 
-/* MAIN */
+/* HEADER */
 @import './main/header.css';
+
+/* MAIN */
+@import './main/main.css';
