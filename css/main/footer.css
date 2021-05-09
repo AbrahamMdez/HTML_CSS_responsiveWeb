@@ -17,6 +17,10 @@
     margin-top: 20px;
 }
 
+.footer__icons i {
+    color: var(--secondary-color);
+}
+
 .footer__p-createdby {
     margin-top: 20px;
     margin-bottom: 10px;
