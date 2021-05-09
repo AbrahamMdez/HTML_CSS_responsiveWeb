@@ -290,4 +290,8 @@
     .main__contactSection-h1 {
         font-size: smaller;
     }
+
+    .main__testimonialsSection-article figure figcaption i {
+        font-size: 0.5rem;
+    }
 }
