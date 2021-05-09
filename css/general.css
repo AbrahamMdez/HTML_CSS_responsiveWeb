@@ -4,8 +4,8 @@
 /* ROOTS */
 @import './roots.css';
 
-/* HEADER */
-@import './main/header.css';
-
 /* MAIN */
+@import './main/header.css';
 @import './main/main.css';
+@import './main/footer.css';
+
